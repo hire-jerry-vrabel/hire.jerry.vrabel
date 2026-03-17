@@ -1,7 +1,7 @@
 # Hire Jerry Vrabel
 
 Senior Web Application Developer | React · Node · TypeScript · Cloud
-Links: LinkedIn, portfolio site, [resume PDF](https://github.com/hire-jerry-vrabel/resume), email: [hire.jerry.vrabel@gmail.com](hire.jerry.vrabel@gmail.com)
+Links: LinkedIn, portfolio site, [resume PDF](https://github.com/hire-jerry-vrabel/resume), email: [hire.jerry.vrabel@gmail.com](mailto:hire.jerry.vrabel@gmail.com)
 
 ## Skills matrix — a clean table or visual grouping like:
 
