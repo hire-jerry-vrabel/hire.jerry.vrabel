@@ -1,69 +1,64 @@
-# Hire Jerry Vrabel
+# Hi, I'm Jerry Vrabel 👋
 
-Senior Web Application Developer | React · Node · TypeScript · Cloud
-Links: LinkedIn, portfolio site, [resume PDF](https://github.com/hire-jerry-vrabel/resume), email: [hire.jerry.vrabel@gmail.com](mailto:hire.jerry.vrabel@gmail.com)
+### Senior Web Application Developer
+**15+ years** building scalable, production-grade web applications.
+I write clean TypeScript, architect full-stack React/Node systems,
+and care deeply about developer experience and code that lasts.
 
-## Skills matrix — a clean table or visual grouping
+🟢 **Actively looking for my next Senior Web Dev role — remote preferred**
 
-Frontend: React, TypeScript, Next.js, CSS/Tailwind
-Backend: Node.js, REST/GraphQL, databases you know
-DevOps/Cloud: AWS/Azure/GCP, Docker, CI/CD
-Tools: Git, testing frameworks, etc.
+📫 hire.jerry.vrabel@gmail.com
+🔗 [LinkedIn](#) · [Portfolio](#) · [Resume](#)
 
-## What I'm looking for
+---
 
-a short paragraph on target role, preferred stack, remote/hybrid preference, and culture fit. This saves recruiters time and filters in the right people. Featured work — 3–5 pinned repos with good descriptions (more on this below)
+## 🛠 Tech Stack
 
-## Repos to Create
+**Frontend**
+TypeScript · React · Next.js · HTML/CSS
 
-### resume
+**Backend**
+Node.js · Express · GraphQL · REST APIs
 
-Pinned [resume repo](https://github.com/hire-jerry-vrabel/resume)
+**Data**
+PostgreSQL · SQL · data modeling
 
-### portfolio-projects
+**Cloud & DevOps**
+AWS · CI/CD pipelines · Git
 
-A [curated showcase repo](https://github.com/hire-jerry-vrabel/portfolio-projects) with a well-written README linking to my best work (describe the project, role, the stack, the outcome).
+---
 
-### job-search-tracker
+## 🔍 What I'm Looking For
 
-Your Kanban/CRM (GitHub Project board tied to this repo). Use Issues for each company, labels for status.
+- **Role:** Senior Web Application Developer (IC or tech lead)
+- **Stack:** TypeScript / React / Node — though I'm adaptable
+- **Environment:** Remote-first teams that value autonomy and craft
+- **Culture:** Collaborative, low-ego, high-trust
 
-### interview-prep
+I'm not interested in roles that are fully on-site.
+The best fit is a team that ships thoughtfully and values clean,
+maintainable code over moving fast and breaking things.
 
-Notes, coding challenge solutions, system design diagrams.
+---
 
-### til (Today I Learned)
+## 📁 Featured Repos
 
-Short daily or weekly entries of things you're learning.
+| Repo | Description |
+|------|-------------|
+| [portfolio-projects](#) | Curated highlights of my work |
+| [resume](#) | My current resume — versioned in Markdown + PDF |
+| [til](#) | Today I Learned — ongoing notes from the trenches |
+| [job-search-tracker](#) | How I'm running this job search |
 
-## GitHub Projects Board
-Board view with these columns:
-ColumnWhat goes here🔍 ResearchingCompanies on your radar, not yet applied✉️ AppliedSubmitted, awaiting response📞 ScreeningRecruiter/HR screen scheduled or done🧑‍💻 InterviewingTechnical or panel interviews in progress🤝 OfferNegotiating or deciding❌ ClosedRejected, withdrew, or filled
-Each Issue = one company. Inside the Issue, track:
+---
 
-Job title & link
-Recruiter/contact name
-Date applied
-Notes from each conversation
-Follow-up due date (use GitHub's due date or a task checkbox)
+## 📊 This Job Search
 
-## Labels to Create
+I'm running this search transparently and systematically.
+You can follow along:
+- 📋 [Job Search Project Board](#) — every company I'm tracking, Kanban-style
+- 📄 [HIRING.md](#) — exactly what I'm looking for, in plain language
 
-remote / hybrid / on-site
-applied-direct / recruiter-reach-out / referral
-high-interest / stretch-role / backup
-follow-up-needed
+---
 
-## Milestone Ideas
-
-Create GitHub Milestones to track your search in phases:
-
-Foundation — Resume polished, README live, portfolio repos created
-Active Search — X applications submitted
-Interviewing — First technical interview reached
-Offer — First offer received
-
-## Consistent branding
-
-On LinkedIn, aligning headline/URL slug to reinforce professional identity.
-
+*Last updated: March 2026*
