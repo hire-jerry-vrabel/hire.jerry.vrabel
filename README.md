@@ -1,9 +1,7 @@
 # Hire Jerry Vrabel
 
-## Header section
-
-A one-liner positioning statement: "Senior Web Application Developer | React · Node · TypeScript · Cloud"
-Links: LinkedIn, portfolio site, resume PDF, email
+Senior Web Application Developer | React · Node · TypeScript · Cloud
+Links: LinkedIn, portfolio site, [resume PDF](https://github.com/hire-jerry-vrabel/resume), email: [hire.jerry.vrabel@gmail.com](hire.jerry.vrabel@gmail.com)
 
 ## Skills matrix — a clean table or visual grouping like:
 
@@ -20,7 +18,7 @@ a short paragraph on target role, preferred stack, remote/hybrid preference, and
 
 ### resume
 
-Pin [resume repo](https://github.com/hire-jerry-vrabel/resume). Resume in Markdown + exported PDF.
+Pinned [resume repo](https://github.com/hire-jerry-vrabel/resume)
 
 ### portfolio-projects
 
