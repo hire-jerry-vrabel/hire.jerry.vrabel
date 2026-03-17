@@ -20,7 +20,7 @@ a short paragraph on target role, preferred stack, remote/hybrid preference, and
 
 ### resume
 
-Pin resume repo. Resume in Markdown + exported PDF.
+Pin [resume repo](https://github.com/hire-jerry-vrabel/resume). Resume in Markdown + exported PDF.
 
 ### portfolio-projects
 
