@@ -20,9 +20,9 @@ a short paragraph on target role, preferred stack, remote/hybrid preference, and
 
 Pinned [resume repo](https://github.com/hire-jerry-vrabel/resume)
 
-### portfolio-projects
+[### portfolio-projects](https://github.com/hire-jerry-vrabel/portfolio-projects)
 
-[A curated showcase repo with a well-written README linking to my best work (describe the project, role, the stack, the outcome).](https://github.com/hire-jerry-vrabel/portfolio-projects)
+A curated showcase repo with a well-written README linking to my best work (describe the project, role, the stack, the outcome).
 
 ### job-search-tracker
 
