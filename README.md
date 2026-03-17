@@ -3,7 +3,7 @@
 Senior Web Application Developer | React · Node · TypeScript · Cloud
 Links: LinkedIn, portfolio site, [resume PDF](https://github.com/hire-jerry-vrabel/resume), email: [hire.jerry.vrabel@gmail.com](mailto:hire.jerry.vrabel@gmail.com)
 
-## Skills matrix — a clean table or visual grouping like:
+## Skills matrix — a clean table or visual grouping
 
 Frontend: React, TypeScript, Next.js, CSS/Tailwind
 Backend: Node.js, REST/GraphQL, databases you know
@@ -22,7 +22,7 @@ Pinned [resume repo](https://github.com/hire-jerry-vrabel/resume)
 
 ### portfolio-projects
 
-A curated showcase repo with a well-written README linking to my best work (describe the project, role, the stack, the outcome).
+[A curated showcase repo with a well-written README linking to my best work (describe the project, role, the stack, the outcome).](https://github.com/hire-jerry-vrabel/portfolio-projects)
 
 ### job-search-tracker
 
