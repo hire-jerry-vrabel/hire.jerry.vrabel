@@ -8,7 +8,7 @@ and care deeply about developer experience and code that lasts.
 🟢 **Actively looking for my next Senior Web Dev role — remote preferred**
 
 📫 hire.jerry.vrabel@gmail.com
-🔗 [LinkedIn](#) · [Portfolio](#) · [Resume](#)
+🔗 [LinkedIn](https://www.linkedin.com/in/forwardslash-development/) · [Portfolio](https://github.com/hire-jerry-vrabel/portfolio-projects) · [Resume](https://github.com/hire-jerry-vrabel/resume/blob/main/JerryVrabelResume.md)
 
 ---
 
