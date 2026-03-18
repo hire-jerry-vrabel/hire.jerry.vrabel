@@ -45,10 +45,10 @@ maintainable code over moving fast and breaking things.
 
 | Repo | Description |
 |------|-------------|
-| [portfolio-projects](#) | Curated highlights of my work |
-| [resume](#) | My current resume — versioned in Markdown + PDF |
-| [til](#) | Today I Learned — ongoing notes from the trenches |
-| [job-search-tracker](#) | How I'm running this job search |
+| [portfolio-projects](https://github.com/hire-jerry-vrabel/portfolio-projects) | Curated highlights of my work |
+| [resume](https://github.com/hire-jerry-vrabel/resume) | My current resume versioned in Markdown + PDF |
+| [til](https://github.com/hire-jerry-vrabel/til) | Today I Learned: ongoing notes from the trenches |
+| [job-search-tracker](https://github.com/hire-jerry-vrabel/job-search-tracker) | How I'm running this job search |
 
 ---
 
@@ -56,7 +56,7 @@ maintainable code over moving fast and breaking things.
 
 I'm running this search transparently and systematically.
 You can follow along:
-- 📋 [Job Search Project Board](#) — every company I'm tracking, Kanban-style
+- 📋 [Job Search Project Board](https://github.com/users/hire-jerry-vrabel/projects/1) — every company I'm tracking, Kanban-style
 - 📄 [HIRING.md](#) — exactly what I'm looking for, in plain language
 
 ---
