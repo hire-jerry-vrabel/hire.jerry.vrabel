@@ -57,7 +57,7 @@ maintainable code over moving fast and breaking things.
 I'm running this search transparently and systematically.
 You can follow along:
 - 📋 [Job Search Project Board](https://github.com/users/hire-jerry-vrabel/projects/1) — every company I'm tracking, Kanban-style
-- 📄 [HIRING.md](#) — exactly what I'm looking for, in plain language
+- 📄 [HIRING.md](https://github.com/hire-jerry-vrabel/hire.jerry.vrabel/blob/main/HIRING.md) — exactly what I'm looking for, in plain language
 
 ---
 
